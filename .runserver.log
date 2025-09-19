@@ -1,0 +1,881 @@
+Watching for file changes with StatReloader
+[18/Sep/2025 13:05:11] "HEAD / HTTP/1.1" 200 0
+[18/Sep/2025 13:05:47] "GET / HTTP/1.1" 200 12068
+/home/nurmuhammad/news/config/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+September 18, 2025 - 13:05:02
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+September 18, 2025 - 13:06:46
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+September 18, 2025 - 13:07:22
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/admin.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+September 18, 2025 - 13:08:07
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+September 18, 2025 - 13:08:15
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:08:40
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+[18/Sep/2025 13:10:48] "GET /api/articles/ HTTP/1.1" 200 2
+Bad Request: /api/articles/
+[18/Sep/2025 13:10:48] "POST /api/articles/ HTTP/1.1" 400 107
+[18/Sep/2025 13:10:49] "GET /api/articles/ HTTP/1.1" 200 2
+Bad Request: /api/articles/
+[18/Sep/2025 13:11:29] "POST /api/articles/ HTTP/1.1" 400 107
+[18/Sep/2025 13:11:29] "GET /api/articles/ HTTP/1.1" 200 2
+/home/nurmuhammad/news/articles/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:10:06
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+Bad Request: /api/articles/
+[18/Sep/2025 13:12:00] "POST /api/articles/ HTTP/1.1" 400 107
+[18/Sep/2025 13:12:00] "GET /api/articles/ HTTP/1.1" 200 2
+[18/Sep/2025 13:12:22] "POST /api/articles/ HTTP/1.1" 201 264
+[18/Sep/2025 13:12:22] "GET /api/articles/ HTTP/1.1" 200 266
+/home/nurmuhammad/news/config/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:11:50
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+[18/Sep/2025 13:13:18] "GET /api/articles/hello/ HTTP/1.1" 200 264
+[18/Sep/2025 13:13:18] "PATCH /api/articles/hello/ HTTP/1.1" 200 272
+Not Found: /api/articles/hello-updated/
+[18/Sep/2025 13:13:18] "GET /api/articles/hello-updated/ HTTP/1.1" 404 48
+Not Found: /api/articles/hello-updated/
+[18/Sep/2025 13:13:18] "DELETE /api/articles/hello-updated/ HTTP/1.1" 404 48
+Not Found: /api/articles/hello-updated/
+[18/Sep/2025 13:13:18] "GET /api/articles/hello-updated/ HTTP/1.1" 404 48
+[18/Sep/2025 13:13:36] "GET /api/articles/hello/ HTTP/1.1" 200 272
+[18/Sep/2025 13:13:36] "DELETE /api/articles/hello/ HTTP/1.1" 204 0
+Not Found: /api/articles/hello/
+[18/Sep/2025 13:13:36] "GET /api/articles/hello/ HTTP/1.1" 404 48
+/home/nurmuhammad/news/articles/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:12:30
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+[18/Sep/2025 13:16:33] "POST /api/articles/ HTTP/1.1" 201 264
+[18/Sep/2025 13:16:33] "POST /api/articles/ HTTP/1.1" 201 264
+[18/Sep/2025 13:16:33] "POST /api/articles/ HTTP/1.1" 201 264
+[18/Sep/2025 13:16:33] "POST /api/articles/ HTTP/1.1" 201 264
+[18/Sep/2025 13:16:33] "POST /api/articles/ HTTP/1.1" 201 264
+[18/Sep/2025 13:16:33] "POST /api/articles/ HTTP/1.1" 201 264
+[18/Sep/2025 13:16:33] "POST /api/articles/ HTTP/1.1" 201 264
+[18/Sep/2025 13:16:33] "POST /api/articles/ HTTP/1.1" 201 264
+[18/Sep/2025 13:16:33] "POST /api/articles/ HTTP/1.1" 201 265
+[18/Sep/2025 13:16:33] "POST /api/articles/ HTTP/1.1" 201 269
+[18/Sep/2025 13:16:33] "GET /api/articles/ HTTP/1.1" 200 2704
+[18/Sep/2025 13:16:33] "GET /api/articles/?page=2&page_size=5&ordering=-created_at HTTP/1.1" 200 1372
+/home/nurmuhammad/news/articles/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:15:17
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:16:43
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:17:33
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:17:38
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+Bad Request: /api/auth/token/
+[18/Sep/2025 13:17:57] "POST /api/auth/token/ HTTP/1.1" 400 73
+/home/nurmuhammad/news/config/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:17:44
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:18:10
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+Bad Request: /api/auth/token/
+[18/Sep/2025 13:18:22] "POST /api/auth/token/ HTTP/1.1" 400 107
+[18/Sep/2025 13:18:31] "POST /api/auth/token/ HTTP/1.1" 200 489
+[18/Sep/2025 13:19:47] "POST /api/auth/token/ HTTP/1.1" 200 489
+Unauthorized: /api/articles/
+[18/Sep/2025 13:19:47] "POST /api/articles/ HTTP/1.1" 401 107
+[18/Sep/2025 13:21:53] "POST /api/auth/token/ HTTP/1.1" 200 489
+Unauthorized: /api/articles/
+[18/Sep/2025 13:21:53] "POST /api/articles/ HTTP/1.1" 401 58
+[18/Sep/2025 13:25:11] "POST /api/auth/token/ HTTP/1.1" 200 489
+Unauthorized: /api/articles/
+[18/Sep/2025 13:25:11] "POST /api/articles/ HTTP/1.1" 401 58
+[18/Sep/2025 13:27:23] "POST /api/auth/token/ HTTP/1.1" 200 489
+/home/nurmuhammad/news/articles/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:18:17
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:27:33
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/admin.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:30:47
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:30:53
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:31:29
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/serializers.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:31:30
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:36:04
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/serializers.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:36:13
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:39:45
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:40:34
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/views.py: Error [ArticleListCreateAPIView]: unable to guess serializer. This is graceful fallback handling for APIViews. Consider using GenericAPIView as view base class, if view is under your control. Either way you may want to add a serializer_class (or method). Ignoring view for now.
+/home/nurmuhammad/news/articles/views.py: Error [ArticleDetailAPIView]: unable to guess serializer. This is graceful fallback handling for APIViews. Consider using GenericAPIView as view base class, if view is under your control. Either way you may want to add a serializer_class (or method). Ignoring view for now.
+Warning: operationId "articles_retrieve" has collisions [('/api/articles/', 'get'), ('/api/articles/{slug}/', 'get')]. resolving with numeral suffixes.
+[18/Sep/2025 13:40:49] "HEAD /api/schema/ HTTP/1.1" 200 0
+[18/Sep/2025 13:40:49] "HEAD /api/docs/ HTTP/1.1" 200 0
+/home/nurmuhammad/news/config/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:40:42
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:41:00
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/admin.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:41:56
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/serializers.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:42:08
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:42:13
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:42:25
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:42:31
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+[18/Sep/2025 13:42:59] "GET /api/articles/ HTTP/1.1" 200 3415
+/home/nurmuhammad/news/articles/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:42:40
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:43:09
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.12/threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(**check_kwargs)
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/core/management/base.py", line 569, in check
+    raise SystemCheckError(msg)
+django.core.management.base.SystemCheckError: SystemCheckError: System check identified some issues:
+
+ERRORS:
+articles.Article.cover_image: (fields.E210) Cannot use ImageField because Pillow is not installed.
+	HINT: Get Pillow at https://pypi.org/project/Pillow/ or run command "python -m pip install Pillow".
+
+System check identified 1 issue (0 silenced).
+/home/nurmuhammad/news/config/settings.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:45:37
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/serializers.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:45:42
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:45:48
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+[18/Sep/2025 13:47:20] "POST /api/auth/token/ HTTP/1.1" 200 489
+Internal Server Error: /api/articles/
+Traceback (most recent call last):
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: articles_article.cover_image
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/articles/views.py", line 69, in get
+    items = list(queryset[start:end])
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/models/query.py", line 384, in __iter__
+    self._fetch_all()
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/models/query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nurmuhammad/news/.venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such column: articles_article.cover_image
+[18/Sep/2025 13:47:20] "GET /api/articles/ HTTP/1.1" 500 166102
+[18/Sep/2025 13:47:20,492] - Broken pipe from ('127.0.0.1', 48418)
+/home/nurmuhammad/news/articles/models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:45:57
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:47:27
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:47:31
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:52:15
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:52:28
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+Unauthorized: /api/auth/token/
+[18/Sep/2025 13:53:33] "POST /api/auth/token/ HTTP/1.1" 401 63
+Bad Request: /api/users/register/
+[18/Sep/2025 13:53:33] "POST /api/users/register/ HTTP/1.1" 400 107
+Unauthorized: /api/users/me/
+[18/Sep/2025 13:53:33] "GET /api/users/me/ HTTP/1.1" 401 58
+/home/nurmuhammad/news/users/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:52:53
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:53:44
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/config/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:56:33
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/home/nurmuhammad/news/articles/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 13:56:53
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+[18/Sep/2025 16:41:24] "GET /admin/ HTTP/1.1" 302 0
+[18/Sep/2025 16:41:25] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+[18/Sep/2025 16:41:25] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[18/Sep/2025 16:41:25] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[18/Sep/2025 16:41:25] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+[18/Sep/2025 16:41:25] "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+[18/Sep/2025 16:41:25] "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+[18/Sep/2025 16:41:25] "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+[18/Sep/2025 16:41:25] "GET /static/admin/css/login.css HTTP/1.1" 200 951
+Not Found: /favicon.ico
+[18/Sep/2025 16:41:36] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4341
+[18/Sep/2025 16:41:47] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4340
+[18/Sep/2025 16:43:00] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[18/Sep/2025 16:43:00] "GET /admin/ HTTP/1.1" 200 8983
+[18/Sep/2025 16:43:01] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+[18/Sep/2025 16:43:01] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[18/Sep/2025 16:43:01] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+Not Found: /swagger/
+[18/Sep/2025 16:43:07] "GET /swagger/ HTTP/1.1" 404 3374
+[18/Sep/2025 16:43:16] "GET /admin/articles/article/ HTTP/1.1" 200 23707
+[18/Sep/2025 16:43:16] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+[18/Sep/2025 16:43:16] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[18/Sep/2025 16:43:16] "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+[18/Sep/2025 16:43:16] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+[18/Sep/2025 16:43:16] "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+[18/Sep/2025 16:43:16] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[18/Sep/2025 16:43:16] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+[18/Sep/2025 16:43:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[18/Sep/2025 16:43:16] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+[18/Sep/2025 16:43:16] "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+[18/Sep/2025 16:43:16] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+[18/Sep/2025 16:43:16] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[18/Sep/2025 16:43:16] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[18/Sep/2025 16:43:16] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[18/Sep/2025 16:43:16] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[18/Sep/2025 16:43:16] "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+[18/Sep/2025 16:43:27] "GET /admin/articles/article/16/change/ HTTP/1.1" 200 21990
+[18/Sep/2025 16:43:27] "GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+[18/Sep/2025 16:43:27] "GET /static/admin/css/vendor/select2/select2.css HTTP/1.1" 200 17358
+[18/Sep/2025 16:43:27] "GET /static/admin/css/autocomplete.css HTTP/1.1" 200 9185
+[18/Sep/2025 16:43:27] "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+[18/Sep/2025 16:43:27] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+[18/Sep/2025 16:43:27] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[18/Sep/2025 16:43:27] "GET /static/admin/js/autocomplete.js HTTP/1.1" 200 1060
+[18/Sep/2025 16:43:27] "GET /static/admin/js/vendor/select2/i18n/en.js HTTP/1.1" 200 844
+[18/Sep/2025 16:43:27] "GET /static/admin/js/vendor/select2/select2.full.js HTTP/1.1" 200 173566
+[18/Sep/2025 16:43:27] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[18/Sep/2025 16:43:27] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+[18/Sep/2025 16:43:27] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[18/Sep/2025 16:43:27] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+[18/Sep/2025 16:43:27] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[18/Sep/2025 16:43:27] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[18/Sep/2025 16:43:39] "GET /admin/articles/article/ HTTP/1.1" 200 23707
+[18/Sep/2025 16:45:29] "GET /admin/articles/comment/ HTTP/1.1" 200 11387
+[18/Sep/2025 16:45:29] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[18/Sep/2025 16:45:33] "GET /admin/articles/category/ HTTP/1.1" 200 11640
+[18/Sep/2025 16:45:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[18/Sep/2025 16:45:36] "GET /admin/articles/tag/ HTTP/1.1" 200 11870
+[18/Sep/2025 16:45:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[18/Sep/2025 16:56:25] "GET /api/docs HTTP/1.1" 301 0
+[18/Sep/2025 16:56:25] "GET /api/docs/ HTTP/1.1" 200 4641
+/home/nurmuhammad/news/articles/views.py: Error [ArticleListCreateAPIView]: unable to guess serializer. This is graceful fallback handling for APIViews. Consider using GenericAPIView as view base class, if view is under your control. Either way you may want to add a serializer_class (or method). Ignoring view for now.
+/home/nurmuhammad/news/articles/views.py: Error [ArticleDetailAPIView]: unable to guess serializer. This is graceful fallback handling for APIViews. Consider using GenericAPIView as view base class, if view is under your control. Either way you may want to add a serializer_class (or method). Ignoring view for now.
+/home/nurmuhammad/news/articles/views.py: Error [CommentListCreateAPIView]: unable to guess serializer. This is graceful fallback handling for APIViews. Consider using GenericAPIView as view base class, if view is under your control. Either way you may want to add a serializer_class (or method). Ignoring view for now.
+/home/nurmuhammad/news/users/views.py: Error [MeAPIView]: unable to guess serializer. This is graceful fallback handling for APIViews. Consider using GenericAPIView as view base class, if view is under your control. Either way you may want to add a serializer_class (or method). Ignoring view for now.
+/home/nurmuhammad/news/users/views.py: Error [RegisterAPIView]: unable to guess serializer. This is graceful fallback handling for APIViews. Consider using GenericAPIView as view base class, if view is under your control. Either way you may want to add a serializer_class (or method). Ignoring view for now.
+Warning: operationId "articles_retrieve" has collisions [('/api/articles/', 'get'), ('/api/articles/{slug}/', 'get')]. resolving with numeral suffixes.
+[18/Sep/2025 16:56:30] "GET /api/schema/ HTTP/1.1" 200 17979
+[18/Sep/2025 17:44:52] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:44:52] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:47:08] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:47:08] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:49:04] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:49:04] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:53:08] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:53:08] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:54:15] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:54:15] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:54:19] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:54:19] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:57:47] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:57:47] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:58:17] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:58:17] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:59:07] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 17:59:07] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 18:04:41] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 18:04:42] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 18:07:27] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 18:07:27] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 18:14:49] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 18:14:49] "GET /api/articles/ HTTP/1.1" 200 3835
+[18/Sep/2025 18:24:19] "GET /api/docs/ HTTP/1.1" 200 4641
+/home/nurmuhammad/news/articles/views.py: Error [ArticleListCreateAPIView]: unable to guess serializer. This is graceful fallback handling for APIViews. Consider using GenericAPIView as view base class, if view is under your control. Either way you may want to add a serializer_class (or method). Ignoring view for now.
+/home/nurmuhammad/news/articles/views.py: Error [ArticleDetailAPIView]: unable to guess serializer. This is graceful fallback handling for APIViews. Consider using GenericAPIView as view base class, if view is under your control. Either way you may want to add a serializer_class (or method). Ignoring view for now.
+/home/nurmuhammad/news/articles/views.py: Error [CommentListCreateAPIView]: unable to guess serializer. This is graceful fallback handling for APIViews. Consider using GenericAPIView as view base class, if view is under your control. Either way you may want to add a serializer_class (or method). Ignoring view for now.
+/home/nurmuhammad/news/users/views.py: Error [MeAPIView]: unable to guess serializer. This is graceful fallback handling for APIViews. Consider using GenericAPIView as view base class, if view is under your control. Either way you may want to add a serializer_class (or method). Ignoring view for now.
+/home/nurmuhammad/news/users/views.py: Error [RegisterAPIView]: unable to guess serializer. This is graceful fallback handling for APIViews. Consider using GenericAPIView as view base class, if view is under your control. Either way you may want to add a serializer_class (or method). Ignoring view for now.
+Warning: operationId "articles_retrieve" has collisions [('/api/articles/', 'get'), ('/api/articles/{slug}/', 'get')]. resolving with numeral suffixes.
+[18/Sep/2025 18:24:20] "GET /api/schema/ HTTP/1.1" 200 17979
+[18/Sep/2025 18:24:49] "GET /admin/ HTTP/1.1" 200 8983
+[18/Sep/2025 18:24:49] "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+[18/Sep/2025 18:24:49] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[18/Sep/2025 18:24:49] "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[18/Sep/2025 18:24:49] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+[18/Sep/2025 18:24:49] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[18/Sep/2025 18:24:49] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[18/Sep/2025 18:24:49] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[18/Sep/2025 18:24:49] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[18/Sep/2025 18:24:49] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[18/Sep/2025 18:24:52] "GET /admin/articles/article/ HTTP/1.1" 200 23707
+[18/Sep/2025 18:24:52] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+[18/Sep/2025 18:24:52] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[18/Sep/2025 18:24:52] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[18/Sep/2025 18:24:52] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[18/Sep/2025 18:24:52] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[18/Sep/2025 18:24:52] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[18/Sep/2025 18:24:52] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[18/Sep/2025 18:24:52] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[18/Sep/2025 18:24:52] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[18/Sep/2025 18:24:52] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[18/Sep/2025 18:24:52] "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+[18/Sep/2025 18:24:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[18/Sep/2025 18:24:52] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[18/Sep/2025 18:24:52] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[18/Sep/2025 18:24:52] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[18/Sep/2025 18:24:52] "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+[18/Sep/2025 18:25:00] "GET /admin/articles/article/16/change/ HTTP/1.1" 200 21990
+[18/Sep/2025 18:25:00] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[18/Sep/2025 18:25:00] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[18/Sep/2025 18:25:00] "GET /static/admin/css/vendor/select2/select2.css HTTP/1.1" 304 0
+[18/Sep/2025 18:25:00] "GET /static/admin/css/autocomplete.css HTTP/1.1" 304 0
+[18/Sep/2025 18:25:00] "GET /static/admin/js/vendor/select2/select2.full.js HTTP/1.1" 304 0
+[18/Sep/2025 18:25:00] "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[18/Sep/2025 18:25:00] "GET /static/admin/js/vendor/select2/i18n/en.js HTTP/1.1" 304 0
+[18/Sep/2025 18:25:00] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[18/Sep/2025 18:25:00] "GET /static/admin/js/autocomplete.js HTTP/1.1" 304 0
+[18/Sep/2025 18:25:00] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[18/Sep/2025 18:25:00] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[18/Sep/2025 18:25:00] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[18/Sep/2025 18:25:00] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[18/Sep/2025 18:25:00] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[18/Sep/2025 18:25:00] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[18/Sep/2025 18:25:09] "GET /api/articles/world-post-2/ HTTP/1.1" 200 382
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 18, 2025 - 16:04:56
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
